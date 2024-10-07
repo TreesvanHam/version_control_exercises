@@ -1,6 +1,0 @@
-Some text
-<<<<<<< HEAD
-I have to added again some text but this time on my local computer
-=======
-I have to add some lines for exercise 3
->>>>>>> a6d0001a8b34ed96e65cb4271906c6262baccda3
